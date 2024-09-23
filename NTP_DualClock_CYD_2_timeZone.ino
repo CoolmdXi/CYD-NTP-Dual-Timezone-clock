@@ -29,6 +29,9 @@
                 02/10/21  added date-leading-zero option
                
  **************************************************************************/
+// now uses Arduino esp32 Boards 2.0.17
+// esp32 board 3.0.5
+// Tft_espi 2.5.43
 
 //Repurposed Sketch By Coolmd (mark) to allow for local and a second time zone to be displayed instead of UTC July 24
 // This sketch was altered to allow display of local time zone and another timezone of your choice. I then ported it to run
