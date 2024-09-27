@@ -1,6 +1,6 @@
  Special thanks to the original author, Bruce E. Hall:
 
-NTP Dual Clock
+NTP Dual Clock. https://github.com/bhall66/NTP-clock
 
 This project is a modified version of Bruce E. Hall's NTP Dual Clock. It displays local time and a secondary time zone on a TFT screen using an ESP32  microcontroller.
 The clock syncs with an NTP server and updates both time zones every 30 minutes.
